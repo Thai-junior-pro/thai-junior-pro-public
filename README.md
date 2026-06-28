@@ -2,7 +2,7 @@
 
 Public hosting for the **Thai Junior Pro** app's legal pages and installation guides (served via GitHub Pages).
 
-The app source lives in the private [`thai-junior-pro`](https://github.com/Thai-junior-pro/thai-junior-pro) repository; this repo only holds publicly-linkable documents.
+The app source lives in the private `thai-junior-pro` repository; this repo only holds publicly-linkable documents.
 
 **Live site:** https://thai-junior-pro.github.io/thai-junior-pro-public/
 
